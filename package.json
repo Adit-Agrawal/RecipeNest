@@ -1,0 +1,23 @@
+{
+  "name": "forkify_starter_1",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build --outDir ./dist"
+  },
+  "devDependencies": {
+    "vite": "^6.2.1"
+  },
+  "dependencies": {
+    "core-js": "^3.41.0",
+    "fraction.js": "^5.2.1",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.14.1",
+    "sass": "^1.85.1"
+  }
+}
