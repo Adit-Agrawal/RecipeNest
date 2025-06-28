@@ -119,12 +119,6 @@ RecipeNest follows the MVC architectural pattern:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Recipe data provided by [Forkify API](https://forkify-api.jonas.io/)
-- Icons from [Heroicons](https://heroicons.com/)
-- Built as part of modern JavaScript development learning
-
 ---
 
 <div align="center">
